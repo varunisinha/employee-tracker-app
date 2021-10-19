@@ -1,0 +1,29 @@
+{
+  "name": "employee-tracker-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunisinha/employee-tracker-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunisinha/employee-tracker-app/issues"
+  },
+  "homepage": "https://github.com/varunisinha/employee-tracker-app#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.2"
+  }
+}
