@@ -34,16 +34,17 @@ Javascript
 Node.js
 Installation
 
-Clone from GitHub
-Open project directory, then npm install to install all required dependencies
-Usage
+# Steps
 
-install npm init -y to create a new .json file
-npm i
-npm i inquirer
-npm i mysql
-npm i console.table
-make sure to run .sql file in mySQL workbench before running server.js so that tables are able to render correctly
-run node server.js
-make sure server.js is connected to SQL before continuing
-run through prompts as required
+1. Clone from GitHub
+2. Open project directory, then npm install to install all required dependencies
+Usage
+3. install npm init -y to create a new .json file
+4. npm i
+5. npm i inquirer
+6. npm i mysql
+7. npm i console.table
+8. make sure to run .sql file in mySQL workbench before running server.js so that tables are able to render correctly
+9. run node server.js
+10. make sure server.js is connected to SQL before continuing
+11. run through prompts as required
